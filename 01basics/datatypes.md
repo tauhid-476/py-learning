@@ -1,0 +1,3 @@
+# DATATYPES / OBJECT TYPES
+
+- Numbers: 1234
